@@ -16,4 +16,4 @@ By developing a new open-source implementation of the server, I imagine that Tur
 
 This server will divert slightly from the official SOJM server's functionality.
 
-Because this server is meant to be a "private invite" server, it will use authentication and authorization that the official server does not have. It will also *not* include certain anti-abuse functionality from the main server, because open-sourcing that would make it easier for the public to abuse the stats. Private, invite-only administration should make these features less important, anyway.
+Because this server is meant to be a *"private invite"* server, it will use authentication and authorization that the official server does not have. It will also *not* include certain anti-abuse functionality from the main server, because open-sourcing that would make it easier for the public to abuse the stats. Private, invite-only administration should make these features less important, anyway.
